@@ -1,0 +1,14 @@
+{
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+  "prettier.stylelintIntegration": true,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    // For ESLint
+     "source.fixAll.eslint": true,
+    // For Stylelint
+    "source.fixAll.stylelint": true
+  }
+
+}
